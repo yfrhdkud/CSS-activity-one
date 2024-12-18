@@ -1,0 +1,21 @@
+h2,h4{
+    color: darkmagenta;
+    font-weight: bolder;
+}
+div,span{
+      color:aqua;
+      font-weight: 600;
+
+}
+.class1{
+    color: indigo;
+    font-size: x-large;
+}
+.class2{
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+*{
+    background-color: darkseagreen;
+}
